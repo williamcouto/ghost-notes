@@ -1,0 +1,19 @@
+{
+  "name": "ghost-notes",
+  "version": "1.0.0",
+  "description": "API para notas temporarias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamcouto/ghost-notes.git"
+  },
+  "author": "william",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamcouto/ghost-notes/issues"
+  },
+  "homepage": "https://github.com/williamcouto/ghost-notes#readme"
+}
