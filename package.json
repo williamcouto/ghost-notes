@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/williamcouto/ghost-notes/issues"
   },
-  "homepage": "https://github.com/williamcouto/ghost-notes#readme"
+  "homepage": "https://github.com/williamcouto/ghost-notes#readme",
+  "dependencies": {
+    "typescript": "^5.9.3"
+  }
 }
